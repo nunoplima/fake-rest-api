@@ -1,8 +1,9 @@
 {
     "auth": {
-        "id": 1,
-        "email": "test@mail.com",
-        "token": "123.xx.612"
+        "login": {
+            "id": 1,
+            "email": "test@mail.com",
+            "token": "123.xx.612"
+        }
     }
-    
 }
