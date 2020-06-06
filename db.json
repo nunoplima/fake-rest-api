@@ -2,6 +2,7 @@
     "auth": {
         "id": 1,
         "email": "test@mail.com",
-        "token": "123.xx.612"
+        "token": "123.xx.612",
+        "scope": ["user"]
     }
 }
